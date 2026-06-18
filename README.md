@@ -7,7 +7,7 @@ Challenges in Representation Learning: Facial Expression Recognition Challenge (
 ექსპერიმენტებს ვაშენებდი იტერატიულად — პატარა architecture-იდან დავიწყე და თანდათან ვამატებდი layer-ებსა და regularization-ს. ჩემი მთავარი ფოკუსი იყო არა მხოლოდ მაღალი accuracy, არამედ ის, რომ ცხადად მეჩვენებინა underfitting და overfitting და გამეგო, რა იწვევდა მათ.
  
 - **W&B project:** [fer2013-experiments](https://wandb.ai/njvar23-free-university-of-tbilisi-/fer2013-experiments)
-- **W&B report:** _(report-ის link-ი publish-ის შემდეგ ჩასვი აქ)_
+- **W&B report:** (https://api.wandb.ai/links/njvar23-free-university-of-tbilisi-/6nsnktnm)
 ---
  
 ## 1. Dataset და EDA
